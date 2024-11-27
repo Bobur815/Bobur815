@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobur815" alt="bobur815" /></a> </p>
 
-- 🌱 I’m currently learning **- Python - Database management and optimization - Improving my problem-solving skills through algorithms and data structures**
+- 🌱 I’m currently learning at Najot Ta'lim**- Python - Database management and optimization - Improving my problem-solving skills through algorithms and data structures**
 
 - 📝 I regularly write articles on [t.me/bobursdasturinfo](t.me/bobursdasturinfo)
 
