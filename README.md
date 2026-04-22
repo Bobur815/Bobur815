@@ -1,10 +1,6 @@
 <h1 align="center">Assalamu Alaikum 👋, I'm Boburmirzo Ergashev</h1>
 <h3 align="center">Full-Stack Developer | Product Builder | Tech Entrepreneur</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bobur815&theme=algolia&margin-w=10&margin-h=15&column=7" alt="bobur815" />
-</p>
-
 ## 🚀 About Me
 
 Full-stack developer specializing in building production-ready web applications with modern TypeScript stack. I combine 8 years of business operations experience with software engineering to create solutions that solve real-world problems.
